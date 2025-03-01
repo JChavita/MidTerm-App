@@ -2,9 +2,9 @@
 
 ## 📌 Description
 
-This is a React Native app that allows users to see their current location and weather conditions. 
-It also features a profile section where users can edit their information and change their profile picture. 
-The first screen users see is a registration form.
+This is a React Native app that allows users to see their current location and weather conditions.The sessions are storage and also has a timer for the current and last session.
+It also features a profile section where users can edit their information and change their profile picture, uploading photos or just taking one. 
+The first screen users see is a registration form with its field validations.
 
 ## 🚀 Installation
 To set up the project, install the required dependencies:
